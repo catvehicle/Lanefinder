@@ -42,7 +42,7 @@ The program is compatible with Python 2.
 **Pink Circles** &rarr; these circles are the points along the road to follow and represent the algorithm's best guess at the mlane midpoints.
 
 ## Copyright notice
-Copyright © 2018 Compositional Systems Lab, Department of Electrical and Computer Engineering, The University of Arizona; Arizona Board of Regents.
-All rights reserved. All rights reserved. [Copyright text and third party software license information.](https://github.com/catvehicle/Lanefinder/wiki/Copyright)
+Copyright © 2018 Compositional Systems Lab, Department of Electrical and Computer Engineering, The University of Arizona; Arizona Board of Regents
+All rights reserved. [Copyright text and third party software license information.](https://github.com/catvehicle/Lanefinder/wiki/Copyright)
 
 
