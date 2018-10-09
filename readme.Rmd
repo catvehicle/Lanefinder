@@ -8,7 +8,7 @@ output:
 # Lane Finder
 **Contact:** 
 
-- Joe McInnes - <jmacinnes19@wooster.edu>
+- Joe MacInnes - <jmacinnes19@wooster.edu>
 
 **Cite:**
 *[A Pseudo-Derivative Method for Sliding Window
