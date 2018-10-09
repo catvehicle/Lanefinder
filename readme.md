@@ -1,13 +1,14 @@
 # Lane Finder
 **Contact:** 
-    - Joe McInnes - <jmacinnes19@wooster.edu>
+    - Joe MacInnes - <jmacinnes19@wooster.edu>
+
 **Cite:**
 * [A Pseudo-Derivative Method for Sliding Window
 Path Mapping in Robotics-Based Image Processing] Landon Bentley, Joe MacInnes, Rahul Bhadani and Tamal Bose, 2018
 
 The `lane_finder` class operates on an already inverse-perspective-mapped image featuring minimal noise (i.e. the lanes are the only thing in the image - mostly).
 
-It implements the pseudo-derivative sliding window algorithm described in **OUR PAPER (Rahul - not sure how to refer to it here)** to find points along the road for an autonomous vehicle to follow. These points are relative to the car's location, but are not  adjusted for any global coordinate space (eg GPS). 
+It implements the pseudo-derivative sliding window algorithm described in our paper to find points along the road for an autonomous vehicle to follow. These points are relative to the car's location, but are not  adjusted for any global coordinate space (eg GPS). 
 
 The algorithm relies on a variety of hyperparameters that are documented in the class's constructor.
 
